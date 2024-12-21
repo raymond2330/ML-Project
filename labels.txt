@@ -1,0 +1,548 @@
+[
+  {
+    "name": "Neutral Gaze",
+    "type": "points",
+    "attributes": []
+  },
+  {
+    "name": "Right Gaze",
+    "type": "points",
+    "attributes": []
+  },
+  {
+    "name": "Left Gaze",
+    "type": "points",
+    "attributes": []
+  },
+  {
+    "name": "Neutral Head",
+    "type": "points",
+    "attributes": []
+  },
+  {
+    "name": "Right Head",
+    "type": "points",
+    "attributes": []
+  },
+  {
+    "name": "Left Head",
+    "type": "points",
+    "attributes": []
+  },
+  {
+    "name": "Up Head",
+    "type": "points",
+    "attributes": []
+  },
+  {
+    "name": "Down Head",
+    "type": "points",
+    "attributes": []
+  }
+]
+
+
+
+Neutral Gaze
+Right Gaze
+Left Gaze
+
+Neutral Head
+Right Head
+Left Head
+Up Head
+Down Head
+
+
+
+[
+  {
+    "name": "Neutral Gaze",
+    "type": "skeleton",
+    "sublabels": [
+      {
+        "name": "1",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "2",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "3",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "4",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "5",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "6",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "7",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "8",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "9",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "10",
+        "type": "points",
+        "attributes": []
+      }
+    ],
+    "svg": "<circle r=&quot;0.75&quot; cx=&quot;39.59484100341797&quot; cy=&quot;45.62998580932617&quot; data-type=&quot;element node&quot; data-element-id=&quot;2&quot; data-node-id=&quot;2&quot; data-label-name=&quot;2&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;39.59484100341797&quot; cy=&quot;43.78836441040039&quot; data-type=&quot;element node&quot; data-element-id=&quot;3&quot; data-node-id=&quot;3&quot; data-label-name=&quot;3&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;39.22651672363281&quot; cy=&quot;47.1032829284668&quot; data-type=&quot;element node&quot; data-element-id=&quot;4&quot; data-node-id=&quot;4&quot; data-label-name=&quot;4&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;44.014732360839844&quot; cy=&quot;46.182472229003906&quot; data-type=&quot;element node&quot; data-element-id=&quot;5&quot; data-node-id=&quot;5&quot; data-label-name=&quot;5&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;34.622467041015625&quot; cy=&quot;45.445823669433594&quot; data-type=&quot;element node&quot; data-element-id=&quot;6&quot; data-node-id=&quot;6&quot; data-label-name=&quot;6&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;61.87845230102539&quot; cy=&quot;46.182472229003906&quot; data-type=&quot;element node&quot; data-element-id=&quot;7&quot; data-node-id=&quot;7&quot; data-label-name=&quot;7&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;62.06261444091797&quot; cy=&quot;44.5250129699707&quot; data-type=&quot;element node&quot; data-element-id=&quot;8&quot; data-node-id=&quot;8&quot; data-label-name=&quot;8&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;62.24677658081055&quot; cy=&quot;48.02409362792969&quot; data-type=&quot;element node&quot; data-element-id=&quot;9&quot; data-node-id=&quot;9&quot; data-label-name=&quot;9&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;57.458560943603516&quot; cy=&quot;46.366634368896484&quot; data-type=&quot;element node&quot; data-element-id=&quot;10&quot; data-node-id=&quot;10&quot; data-label-name=&quot;10&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;67.58747863769531&quot; cy=&quot;46.73495864868164&quot; data-type=&quot;element node&quot; data-element-id=&quot;11&quot; data-node-id=&quot;11&quot; data-label-name=&quot;11&quot;></circle>",
+    "attributes": []
+  },
+  {
+    "name": "Right Gaze",
+    "type": "skeleton",
+    "sublabels": [
+      {
+        "name": "1",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "2",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "3",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "4",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "5",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "6",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "7",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "8",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "9",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "10",
+        "type": "points",
+        "attributes": []
+      }
+    ],
+    "svg": "<circle r=&quot;0.75&quot; cx=&quot;39.41067886352539&quot; cy=&quot;45.384437561035156&quot; data-type=&quot;element node&quot; data-element-id=&quot;1&quot; data-node-id=&quot;1&quot; data-label-name=&quot;1&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;39.22651672363281&quot; cy=&quot;43.72697830200195&quot; data-type=&quot;element node&quot; data-element-id=&quot;2&quot; data-node-id=&quot;2&quot; data-label-name=&quot;2&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;39.22651672363281&quot; cy=&quot;47.04189682006836&quot; data-type=&quot;element node&quot; data-element-id=&quot;3&quot; data-node-id=&quot;3&quot; data-label-name=&quot;3&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;44.014732360839844&quot; cy=&quot;46.12108612060547&quot; data-type=&quot;element node&quot; data-element-id=&quot;4&quot; data-node-id=&quot;4&quot; data-label-name=&quot;4&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;34.99079132080078&quot; cy=&quot;45.568599700927734&quot; data-type=&quot;element node&quot; data-element-id=&quot;5&quot; data-node-id=&quot;5&quot; data-label-name=&quot;5&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;61.69429016113281&quot; cy=&quot;46.12108612060547&quot; data-type=&quot;element node&quot; data-element-id=&quot;6&quot; data-node-id=&quot;6&quot; data-label-name=&quot;6&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;61.69429016113281&quot; cy=&quot;44.27946472167969&quot; data-type=&quot;element node&quot; data-element-id=&quot;7&quot; data-node-id=&quot;7&quot; data-label-name=&quot;7&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;62.06261444091797&quot; cy=&quot;47.96270751953125&quot; data-type=&quot;element node&quot; data-element-id=&quot;8&quot; data-node-id=&quot;8&quot; data-label-name=&quot;8&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;57.27439880371094&quot; cy=&quot;46.489410400390625&quot; data-type=&quot;element node&quot; data-element-id=&quot;9&quot; data-node-id=&quot;9&quot; data-label-name=&quot;9&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;67.40331268310547&quot; cy=&quot;46.489410400390625&quot; data-type=&quot;element node&quot; data-element-id=&quot;10&quot; data-node-id=&quot;10&quot; data-label-name=&quot;10&quot;></circle>",
+    "attributes": []
+  },
+  {
+    "name": "Left Gaze",
+    "type": "skeleton",
+    "sublabels": [
+      {
+        "name": "1",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "2",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "3",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "4",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "5",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "6",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "7",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "8",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "9",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "10",
+        "type": "points",
+        "attributes": []
+      }
+    ],
+    "svg": "<circle r=&quot;0.75&quot; cx=&quot;39.41067886352539&quot; cy=&quot;45.384437561035156&quot; data-type=&quot;element node&quot; data-element-id=&quot;1&quot; data-node-id=&quot;1&quot; data-label-name=&quot;1&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;39.22651672363281&quot; cy=&quot;43.542816162109375&quot; data-type=&quot;element node&quot; data-element-id=&quot;2&quot; data-node-id=&quot;2&quot; data-label-name=&quot;2&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;39.59484100341797&quot; cy=&quot;47.04189682006836&quot; data-type=&quot;element node&quot; data-element-id=&quot;3&quot; data-node-id=&quot;3&quot; data-label-name=&quot;3&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;44.014732360839844&quot; cy=&quot;46.12108612060547&quot; data-type=&quot;element node&quot; data-element-id=&quot;4&quot; data-node-id=&quot;4&quot; data-label-name=&quot;4&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;34.8066291809082&quot; cy=&quot;45.568599700927734&quot; data-type=&quot;element node&quot; data-element-id=&quot;5&quot; data-node-id=&quot;5&quot; data-label-name=&quot;5&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;61.87845230102539&quot; cy=&quot;46.12108612060547&quot; data-type=&quot;element node&quot; data-element-id=&quot;6&quot; data-node-id=&quot;6&quot; data-label-name=&quot;6&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;61.87845230102539&quot; cy=&quot;44.463626861572266&quot; data-type=&quot;element node&quot; data-element-id=&quot;7&quot; data-node-id=&quot;7&quot; data-label-name=&quot;7&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;62.24677658081055&quot; cy=&quot;48.14686965942383&quot; data-type=&quot;element node&quot; data-element-id=&quot;8&quot; data-node-id=&quot;8&quot; data-label-name=&quot;8&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;57.27439880371094&quot; cy=&quot;46.489410400390625&quot; data-type=&quot;element node&quot; data-element-id=&quot;9&quot; data-node-id=&quot;9&quot; data-label-name=&quot;9&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;67.21915435791016&quot; cy=&quot;46.30524826049805&quot; data-type=&quot;element node&quot; data-element-id=&quot;10&quot; data-node-id=&quot;10&quot; data-label-name=&quot;10&quot;></circle>",
+    "attributes": []
+  },
+  {
+    "name": "Neutral Head",
+    "type": "skeleton",
+    "sublabels": [
+      {
+        "name": "1",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "2",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "3",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "4",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "5",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "6",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "7",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "8",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "9",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "10",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "11",
+        "type": "points",
+        "attributes": []
+      }
+    ],
+    "svg": "<circle r=&quot;0.75&quot; cx=&quot;29.097604751586914&quot; cy=&quot;54.22421646118164&quot; data-type=&quot;element node&quot; data-element-id=&quot;1&quot; data-node-id=&quot;1&quot; data-label-name=&quot;1&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;30.38673973083496&quot; cy=&quot;60.66988754272461&quot; data-type=&quot;element node&quot; data-element-id=&quot;2&quot; data-node-id=&quot;2&quot; data-label-name=&quot;2&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;32.780845642089844&quot; cy=&quot;68.77301788330078&quot; data-type=&quot;element node&quot; data-element-id=&quot;3&quot; data-node-id=&quot;3&quot; data-label-name=&quot;3&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;37.93738555908203&quot; cy=&quot;76.32366180419922&quot; data-type=&quot;element node&quot; data-element-id=&quot;4&quot; data-node-id=&quot;4&quot; data-label-name=&quot;4&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;43.64640808105469&quot; cy=&quot;81.11187744140625&quot; data-type=&quot;element node&quot; data-element-id=&quot;5&quot; data-node-id=&quot;5&quot; data-label-name=&quot;5&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;51.197052001953125&quot; cy=&quot;82.76933288574219&quot; data-type=&quot;element node&quot; data-element-id=&quot;6&quot; data-node-id=&quot;6&quot; data-label-name=&quot;6&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;58.563533782958984&quot; cy=&quot;80.9277114868164&quot; data-type=&quot;element node&quot; data-element-id=&quot;7&quot; data-node-id=&quot;7&quot; data-label-name=&quot;7&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;65.00920867919922&quot; cy=&quot;74.8503646850586&quot; data-type=&quot;element node&quot; data-element-id=&quot;8&quot; data-node-id=&quot;8&quot; data-label-name=&quot;8&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;68.8766098022461&quot; cy=&quot;66.931396484375&quot; data-type=&quot;element node&quot; data-element-id=&quot;9&quot; data-node-id=&quot;9&quot; data-label-name=&quot;9&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;70.34990692138672&quot; cy=&quot;59.196590423583984&quot; data-type=&quot;element node&quot; data-element-id=&quot;10&quot; data-node-id=&quot;10&quot; data-label-name=&quot;10&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;72.55985260009766&quot; cy=&quot;52.19843292236328&quot; data-type=&quot;element node&quot; data-element-id=&quot;11&quot; data-node-id=&quot;11&quot; data-label-name=&quot;11&quot;></circle>",
+    "attributes": []
+  },
+  {
+    "name": "Right Head",
+    "type": "skeleton",
+    "sublabels": [
+      {
+        "name": "1",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "2",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "3",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "4",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "5",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "6",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "7",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "8",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "9",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "10",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "11",
+        "type": "points",
+        "attributes": []
+      }
+    ],
+    "svg": "<circle r=&quot;0.75&quot; cx=&quot;29.097604751586914&quot; cy=&quot;54.22421646118164&quot; data-type=&quot;element node&quot; data-element-id=&quot;1&quot; data-node-id=&quot;1&quot; data-label-name=&quot;1&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;30.38673973083496&quot; cy=&quot;60.66988754272461&quot; data-type=&quot;element node&quot; data-element-id=&quot;2&quot; data-node-id=&quot;2&quot; data-label-name=&quot;2&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;32.780845642089844&quot; cy=&quot;68.77301788330078&quot; data-type=&quot;element node&quot; data-element-id=&quot;3&quot; data-node-id=&quot;3&quot; data-label-name=&quot;3&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;37.93738555908203&quot; cy=&quot;76.32366180419922&quot; data-type=&quot;element node&quot; data-element-id=&quot;4&quot; data-node-id=&quot;4&quot; data-label-name=&quot;4&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;43.64640808105469&quot; cy=&quot;81.11187744140625&quot; data-type=&quot;element node&quot; data-element-id=&quot;5&quot; data-node-id=&quot;5&quot; data-label-name=&quot;5&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;51.197052001953125&quot; cy=&quot;82.76933288574219&quot; data-type=&quot;element node&quot; data-element-id=&quot;6&quot; data-node-id=&quot;6&quot; data-label-name=&quot;6&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;58.563533782958984&quot; cy=&quot;80.9277114868164&quot; data-type=&quot;element node&quot; data-element-id=&quot;7&quot; data-node-id=&quot;7&quot; data-label-name=&quot;7&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;65.00920867919922&quot; cy=&quot;74.8503646850586&quot; data-type=&quot;element node&quot; data-element-id=&quot;8&quot; data-node-id=&quot;8&quot; data-label-name=&quot;8&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;68.8766098022461&quot; cy=&quot;66.931396484375&quot; data-type=&quot;element node&quot; data-element-id=&quot;9&quot; data-node-id=&quot;9&quot; data-label-name=&quot;9&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;70.34990692138672&quot; cy=&quot;59.196590423583984&quot; data-type=&quot;element node&quot; data-element-id=&quot;10&quot; data-node-id=&quot;10&quot; data-label-name=&quot;10&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;72.55985260009766&quot; cy=&quot;52.19843292236328&quot; data-type=&quot;element node&quot; data-element-id=&quot;11&quot; data-node-id=&quot;11&quot; data-label-name=&quot;11&quot;></circle>",
+    "attributes": []
+  },
+  {
+    "name": "Left Head",
+    "type": "skeleton",
+    "sublabels": [
+      {
+        "name": "1",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "2",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "3",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "4",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "5",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "6",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "7",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "8",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "9",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "10",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "11",
+        "type": "points",
+        "attributes": []
+      }
+    ],
+    "svg": "<circle r=&quot;0.75&quot; cx=&quot;29.097604751586914&quot; cy=&quot;54.22421646118164&quot; data-type=&quot;element node&quot; data-element-id=&quot;1&quot; data-node-id=&quot;1&quot; data-label-name=&quot;1&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;30.38673973083496&quot; cy=&quot;60.66988754272461&quot; data-type=&quot;element node&quot; data-element-id=&quot;2&quot; data-node-id=&quot;2&quot; data-label-name=&quot;2&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;32.780845642089844&quot; cy=&quot;68.77301788330078&quot; data-type=&quot;element node&quot; data-element-id=&quot;3&quot; data-node-id=&quot;3&quot; data-label-name=&quot;3&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;37.93738555908203&quot; cy=&quot;76.32366180419922&quot; data-type=&quot;element node&quot; data-element-id=&quot;4&quot; data-node-id=&quot;4&quot; data-label-name=&quot;4&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;43.64640808105469&quot; cy=&quot;81.11187744140625&quot; data-type=&quot;element node&quot; data-element-id=&quot;5&quot; data-node-id=&quot;5&quot; data-label-name=&quot;5&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;51.197052001953125&quot; cy=&quot;82.76933288574219&quot; data-type=&quot;element node&quot; data-element-id=&quot;6&quot; data-node-id=&quot;6&quot; data-label-name=&quot;6&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;58.563533782958984&quot; cy=&quot;80.9277114868164&quot; data-type=&quot;element node&quot; data-element-id=&quot;7&quot; data-node-id=&quot;7&quot; data-label-name=&quot;7&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;65.00920867919922&quot; cy=&quot;74.8503646850586&quot; data-type=&quot;element node&quot; data-element-id=&quot;8&quot; data-node-id=&quot;8&quot; data-label-name=&quot;8&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;68.8766098022461&quot; cy=&quot;66.931396484375&quot; data-type=&quot;element node&quot; data-element-id=&quot;9&quot; data-node-id=&quot;9&quot; data-label-name=&quot;9&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;70.34990692138672&quot; cy=&quot;59.196590423583984&quot; data-type=&quot;element node&quot; data-element-id=&quot;10&quot; data-node-id=&quot;10&quot; data-label-name=&quot;10&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;72.55985260009766&quot; cy=&quot;52.19843292236328&quot; data-type=&quot;element node&quot; data-element-id=&quot;11&quot; data-node-id=&quot;11&quot; data-label-name=&quot;11&quot;></circle>",
+    "attributes": []
+  },
+  {
+    "name": "Up Head",
+    "type": "skeleton",
+    "sublabels": [
+      {
+        "name": "1",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "2",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "3",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "4",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "5",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "6",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "7",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "8",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "9",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "10",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "11",
+        "type": "points",
+        "attributes": []
+      }
+    ],
+    "svg": "<circle r=&quot;0.75&quot; cx=&quot;29.097604751586914&quot; cy=&quot;54.22421646118164&quot; data-type=&quot;element node&quot; data-element-id=&quot;1&quot; data-node-id=&quot;1&quot; data-label-name=&quot;1&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;30.38673973083496&quot; cy=&quot;60.66988754272461&quot; data-type=&quot;element node&quot; data-element-id=&quot;2&quot; data-node-id=&quot;2&quot; data-label-name=&quot;2&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;32.780845642089844&quot; cy=&quot;68.77301788330078&quot; data-type=&quot;element node&quot; data-element-id=&quot;3&quot; data-node-id=&quot;3&quot; data-label-name=&quot;3&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;37.93738555908203&quot; cy=&quot;76.32366180419922&quot; data-type=&quot;element node&quot; data-element-id=&quot;4&quot; data-node-id=&quot;4&quot; data-label-name=&quot;4&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;43.64640808105469&quot; cy=&quot;81.11187744140625&quot; data-type=&quot;element node&quot; data-element-id=&quot;5&quot; data-node-id=&quot;5&quot; data-label-name=&quot;5&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;51.197052001953125&quot; cy=&quot;82.76933288574219&quot; data-type=&quot;element node&quot; data-element-id=&quot;6&quot; data-node-id=&quot;6&quot; data-label-name=&quot;6&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;58.563533782958984&quot; cy=&quot;80.9277114868164&quot; data-type=&quot;element node&quot; data-element-id=&quot;7&quot; data-node-id=&quot;7&quot; data-label-name=&quot;7&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;65.00920867919922&quot; cy=&quot;74.8503646850586&quot; data-type=&quot;element node&quot; data-element-id=&quot;8&quot; data-node-id=&quot;8&quot; data-label-name=&quot;8&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;68.8766098022461&quot; cy=&quot;66.931396484375&quot; data-type=&quot;element node&quot; data-element-id=&quot;9&quot; data-node-id=&quot;9&quot; data-label-name=&quot;9&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;70.34990692138672&quot; cy=&quot;59.196590423583984&quot; data-type=&quot;element node&quot; data-element-id=&quot;10&quot; data-node-id=&quot;10&quot; data-label-name=&quot;10&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;72.55985260009766&quot; cy=&quot;52.19843292236328&quot; data-type=&quot;element node&quot; data-element-id=&quot;11&quot; data-node-id=&quot;11&quot; data-label-name=&quot;11&quot;></circle>",
+    "attributes": []
+  },
+  {
+    "name": "Down Head",
+    "type": "skeleton",
+    "sublabels": [
+      {
+        "name": "1",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "2",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "3",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "4",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "5",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "6",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "7",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "8",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "9",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "10",
+        "type": "points",
+        "attributes": []
+      },
+      {
+        "name": "11",
+        "type": "points",
+        "attributes": []
+      }
+    ],
+    "svg": "<circle r=&quot;0.75&quot; cx=&quot;29.097604751586914&quot; cy=&quot;54.22421646118164&quot; data-type=&quot;element node&quot; data-element-id=&quot;1&quot; data-node-id=&quot;1&quot; data-label-name=&quot;1&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;30.38673973083496&quot; cy=&quot;60.66988754272461&quot; data-type=&quot;element node&quot; data-element-id=&quot;2&quot; data-node-id=&quot;2&quot; data-label-name=&quot;2&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;32.780845642089844&quot; cy=&quot;68.77301788330078&quot; data-type=&quot;element node&quot; data-element-id=&quot;3&quot; data-node-id=&quot;3&quot; data-label-name=&quot;3&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;37.93738555908203&quot; cy=&quot;76.32366180419922&quot; data-type=&quot;element node&quot; data-element-id=&quot;4&quot; data-node-id=&quot;4&quot; data-label-name=&quot;4&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;43.64640808105469&quot; cy=&quot;81.11187744140625&quot; data-type=&quot;element node&quot; data-element-id=&quot;5&quot; data-node-id=&quot;5&quot; data-label-name=&quot;5&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;51.197052001953125&quot; cy=&quot;82.76933288574219&quot; data-type=&quot;element node&quot; data-element-id=&quot;6&quot; data-node-id=&quot;6&quot; data-label-name=&quot;6&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;58.563533782958984&quot; cy=&quot;80.9277114868164&quot; data-type=&quot;element node&quot; data-element-id=&quot;7&quot; data-node-id=&quot;7&quot; data-label-name=&quot;7&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;65.00920867919922&quot; cy=&quot;74.8503646850586&quot; data-type=&quot;element node&quot; data-element-id=&quot;8&quot; data-node-id=&quot;8&quot; data-label-name=&quot;8&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;68.8766098022461&quot; cy=&quot;66.931396484375&quot; data-type=&quot;element node&quot; data-element-id=&quot;9&quot; data-node-id=&quot;9&quot; data-label-name=&quot;9&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;70.34990692138672&quot; cy=&quot;59.196590423583984&quot; data-type=&quot;element node&quot; data-element-id=&quot;10&quot; data-node-id=&quot;10&quot; data-label-name=&quot;10&quot;></circle>\n<circle r=&quot;0.75&quot; cx=&quot;72.55985260009766&quot; cy=&quot;52.19843292236328&quot; data-type=&quot;element node&quot; data-element-id=&quot;11&quot; data-node-id=&quot;11&quot; data-label-name=&quot;11&quot;></circle>",
+    "attributes": []
+  }
+]

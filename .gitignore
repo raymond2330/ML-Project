@@ -1,0 +1,27 @@
+venv/
+myvenv/
+env/
+runs/
+archive/
+yolo11m.pt
+yolo11n.p
+Annotated Images/
+Compressed/
+datasets - incorrect format/
+Frames/
+Normalized/
+Raw_Data/
+yolo11m-pose.pt
+yolo11n-pose.pt
+yolo11n.pt
+video3.mp4
+video2.mp4
+video1.mp4
+datasets/images/test/
+datasets/images/train/
+datasets/images/val/
+datasets/labels/test/
+datasets/labels/train/
+datasets/labels/val/
+datasets/labels/train.cache
+datasets/labels/val.cache

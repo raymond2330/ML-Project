@@ -1,0 +1,14 @@
+train: images/train
+val: images/val
+test: image/test
+
+nc: 5
+kpt_shape:
+- 11
+- 3
+names:
+  0: Neutral Head
+  1: Right Head
+  2: Left Head
+  3: Up Head
+  4: Down Head
